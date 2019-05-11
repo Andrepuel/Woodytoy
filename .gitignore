@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+woodytoy.so
+woodytoy.dylib
+woodytoy.dll
+woodytoy.a
+woodytoy.lib
+woodytoy-test-*
+/woodytoy
+*.exe
+*.o
+*.obj
+*.lst

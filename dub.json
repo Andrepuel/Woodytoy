@@ -1,0 +1,9 @@
+{
+	"name": "woodytoy",
+	"authors": [
+		"puel"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2019, puel",
+	"license": "proprietary"
+}
